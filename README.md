@@ -6,4 +6,4 @@ IP адрес 158.160.71.90
 
 Frontend https://slavyanar.students.nomoredomains.work/
 
-Backend https:/apistudents.nomoredomains.work/
+Backend https:/api.slavyanar.students.nomoredomains.work/
