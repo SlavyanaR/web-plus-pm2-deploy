@@ -35,7 +35,6 @@ function App() {
 
   const history = useHistory();
 
-  
 
   React.useEffect(() => {
     const token = localStorage.getItem("jwt");
