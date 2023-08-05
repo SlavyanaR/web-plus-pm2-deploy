@@ -140,6 +140,6 @@ class Api {
   }
   // Замените на адрес вашего бэкенда
   const api = new Api('https://api.slavyanar.students.nomoredomains.work');
-  console.log(address);
+  
   export default api;
   
